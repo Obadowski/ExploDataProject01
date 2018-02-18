@@ -2,7 +2,7 @@
 Exploratory Data analysis - Course Project 1
 Developed by *Obadowski*
 
-##Important note
+## Important note
 My native language is _Portuguese_. Therefere, the weekdays in the axis *x* are in *Portuguese* too!
 
 So, for a quick reference
