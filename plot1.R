@@ -1,4 +1,4 @@
-
+# Trying to use Git once more :)
 ##Plot1.R
 #Developed to mimic the example provided in Coursera 
 
